@@ -82,8 +82,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'EmployeeDb',
-        'USER': 'postgres',
-        'PASSWORD': 'Sumit12345*',
+        'USER': 'your Username',
+        'PASSWORD': 'your Password',
         'HOST': 'localhost',
     }
 }
